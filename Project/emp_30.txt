@@ -1,0 +1,2 @@
+empid = 1002	ename = CAM	sal = 15000	deptno = 30
+empid = 1004	ename = DON	sal = 20000	deptno = 30

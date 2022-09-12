@@ -1,0 +1,1 @@
+empid = 1000	ename = ASH	sal = 15000	deptno = 10

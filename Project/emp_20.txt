@@ -1,0 +1,2 @@
+empid = 1001	ename = BOB	sal = 15000	deptno = 20
+empid = 1003	ename = ROME	sal = 16000	deptno = 20
